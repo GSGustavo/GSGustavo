@@ -2,8 +2,13 @@
 ---
 
 Follow me on Linkedin: <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gs/) <br>
-My homepage (https://gustavogonzaga.dev/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gs/) <br> 
+Follow me on freeCodeCamp: <br>
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/gustavog_) <br>
+See my videos <br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@gustavog_silva) <br>
+My homepage <br>
+(https://gustavogonzaga.dev/)  <br>
 
 ---
 ### Techs that I work: <br>
@@ -39,5 +44,4 @@ Databases: <br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
-Follow me on freeCodeCamp: <br>
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/gustavog_)
+
